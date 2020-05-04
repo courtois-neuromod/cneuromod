@@ -1,0 +1,3 @@
+[submodule "anat"]
+	path = anat
+	url = git@github.com:courtois-neuromod/anat.git
