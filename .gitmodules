@@ -4,3 +4,6 @@
 [submodule "movie10"]
 	path = movie10
 	url = git@github.com:courtois-neuromod/movie10.git
+[submodule "hcptrt"]
+	path = hcptrt
+	url = git@github.com:courtois-neuromod/hcptrt.git
