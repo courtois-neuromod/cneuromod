@@ -15,4 +15,4 @@
 	url = git@github.com:courtois-neuromod/cneuromod_docs.git
 [submodule "ds_prep"]
 	path = code/ds_prep
-	url = ./ds_prep
+	url = git@github.com:courtois-neuromod/ds_prep.git
