@@ -7,3 +7,6 @@
 [submodule "hcptrt"]
 	path = hcptrt
 	url = git@github.com:courtois-neuromod/hcptrt.git
+[submodule "friends"]
+	path = friends
+	url = git@github.com:courtois-neuromod/friends.git
