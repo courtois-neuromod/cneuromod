@@ -10,3 +10,6 @@
 [submodule "friends"]
 	path = friends
 	url = git@github.com:courtois-neuromod/friends.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:courtois-neuromod/cneuromod_docs.git
