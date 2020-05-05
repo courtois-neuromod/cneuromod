@@ -1,0 +1,1 @@
+893226ef-821e-4d29-8d30-6895526b6f0b autoenable=true bucket=cneuromod.anat.mri chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=cneuromod.anat.mri port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1588693981.156023746s
