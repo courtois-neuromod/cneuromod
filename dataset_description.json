@@ -1,15 +1,15 @@
 {
-    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Acknowledgements": "https://docs.cneuromod.ca/en/latest/AUTHORS.html",
     "Authors": [
-        "Pierre Bellec"
+        "Pierre Bellec",
+        "Julie Boyle",
+        "Basile Pinsard"
     ],
-    "BIDSVersion": "1.0.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [
         "Courtois Foundation"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-    "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
+    "HowToAcknowledge": "https://docs.cneuromod.ca/en/latest/ACCESS.html#how-to-acknowledge",
+    "License": "https://docs.cneuromod.ca/en/latest/ACCESS.html#data-transfer-agreement-(dta)",
     "Name": "Courtois-Neuromod dataset",
     "ReferencesAndLinks": [
         "https://docs.cneuromod.ca/"
