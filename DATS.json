@@ -109,7 +109,7 @@
           "@type": "Annotation",
           "value": "Structural MRI"
       },
-      "description": "T1W, T2W, DWI"
+      "description": "T1-weighted MPRAGE 3D sagittal, T2-weighted FSE (SPACE) 3D sagittal, Diffusion-weighted 2D axial, gradient-echo magnetization-transfer 3D, gradient-echo proton density 3D, gradient-echo T1-weighted 3D, MP2RAGE 3D, Susceptibility-weighted 3D"
     },
     {
       "@id": "https://w3id.org/dats/schema/dimension_schema.json",
@@ -119,7 +119,7 @@
           "@type": "Annotation",
           "value": "Functional MRI"
       },
-      "description": "resting BOLD"
+      "description": "resting BOLD, tasks BOLD"
     }
   ],
   "acknowledges" : [ 
