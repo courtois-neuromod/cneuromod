@@ -1,0 +1,210 @@
+{
+  "@id": "https://w3id.org/dats/schema/dataset_schema.json",
+  "@type": "Dataset",
+  "title": "cneuromod dataset",
+  "description": "Umbrella dataset of the the Courtois Project on Neuronal Modelling",
+  "identifier": {
+    "@id": "https://w3id.org/dats/schema/identifier_info_schema.json",
+    "@type": "Identifier",
+    "identifier": "https://doi.org/10.5281/zenodo.3875552",
+    "identifierSource": "Zenodo DOI"
+  },
+  "dates": [
+    {
+      "@id": "https://w3id.org/dats/schema/date_info_schema.json",
+      "@type": "Date",
+      "date": "2020-05-04",
+      "type": {
+        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+        "@type": "Annotation",
+        "value": "Start Date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "The Courtois Project on Neuronal Modelling"
+    }
+  ],
+  "types": [
+    {
+      "@id": "https://w3id.org/dats/schema/data_type_schema.json",
+      "@type": "DataType",
+      "information": {
+        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+        "@type": "Annotation",
+        "value": "MRI"
+      }
+    },
+    {
+      "@id": "https://w3id.org/dats/schema/data_type_schema.json",
+      "@type": "DataType",
+      "information": {
+        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+        "@type": "Annotation",
+        "value": "Basic Demographics"
+      }
+    },
+    {
+      "@id": "https://w3id.org/dats/schema/data_type_schema.json",
+      "@type": "DataType",
+      "information": {
+        "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+        "@type": "Annotation",
+        "value": "BIDS"
+      }
+    }
+  ],
+  "version": "1.1",
+  "availability": "available",
+  "privacy": "Private",
+  "licenses": [
+    {
+      "@id": "https://w3id.org/dats/schema/license_schema.json",
+      "@type": "License",
+      "name": "to be determined"
+    }
+  ],
+  "distributions": [
+    {
+    "@id": "http://json-schema.org/draft-04/schema",
+    "@type": "DatasetDistribution",
+    "formats": [
+      "BIDS",
+      "NIfTI",
+      "TSV",
+      "JSON"
+    ],
+    "size" : 1000,
+    "unit" : {
+      "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+      "@type": "Annotation",
+      "value": "GB"
+    },
+    "access": {
+      "landingPage": "https://www.cneuromod.ca/carousel/acquisitions",
+      "authorizations": [
+        {
+          "value": "private"
+        }
+      ]
+    }
+  }
+  ],
+  "isAbout": [
+    {
+      "@id": "https://w3id.org/dats/schema/biological_entity_schema.json",
+      "@type": "BiologicalEntity",
+      "name": "Adult humans"
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "@id": "https://w3id.org/dats/schema/place_schema.json",
+      "@type": "Place",
+      "name": "Québec (province)",
+      "description": "Province of Québec, Canada"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "dimensions": [
+    {
+      "@id": "https://w3id.org/dats/schema/dimension_schema.json",
+      "@type": "Dimension",
+      "name" : {
+          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+          "@type": "Annotation",
+          "value": "Structural MRI"
+      },
+      "description": "T1-weighted MPRAGE 3D sagittal, T2-weighted FSE (SPACE) 3D sagittal, Diffusion-weighted 2D axial, gradient-echo magnetization-transfer 3D, gradient-echo proton density 3D, gradient-echo T1-weighted 3D, MP2RAGE 3D, Susceptibility-weighted 3D"
+    },
+    {
+      "@id": "https://w3id.org/dats/schema/dimension_schema.json",
+      "@type": "Dimension",
+      "name" : {
+          "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+          "@type": "Annotation",
+          "value": "Functional MRI"
+      },
+      "description": "resting BOLD, tasks BOLD"
+    }
+  ],
+  "acknowledges" : [ 
+    {
+      "@id": "https://w3id.org/dats/schema/grant_schema.json",
+      "@type": "Grant",
+      "name": "Donation",
+      "funders": [
+        {
+          "@id": "https://w3id.org/dats/schema/organization_schema.json",
+          "@type": "Organization",
+          "name": "Courtois foundation"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+      "@type": "Annotation",
+      "value": "Human Connectome Project TRT"
+    },
+    {
+      "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+      "@type": "Annotation",
+      "value": "Movies"
+    },
+    {
+      "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+      "@type": "Annotation",
+      "value": "Structural MRI"
+    },
+    {
+      "@id": "https://w3id.org/dats/schema/annotation_schema.json",
+      "@type": "Annotation",
+      "value": "Functional MRI"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "10,969"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "non-CONP Canadian"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.cneuromod.ca/images/cneuromod_logo.svg"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Pierre Bellec, Data bank trustee, pierre.bellec@criugm.ca, +1 514 340-3540 #4782"
+        }
+      ]
+    }
+  ]
+}
