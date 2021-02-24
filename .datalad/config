@@ -1,2 +1,6 @@
 [datalad "dataset"]
 	id = 29e74738-8e09-11ea-80eb-8555360247cd
+[datalad "containers.fmriprep-lts"]
+	updateurl = shub://ReproNim/containers:bids-fmriprep--20.2.0
+	image = .datalad/environments/fmriprep-lts/image
+	cmdexec = singularity exec {img} {cmd}
