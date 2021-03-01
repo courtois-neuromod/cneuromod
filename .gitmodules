@@ -21,6 +21,7 @@
 [submodule "ds_prep"]
 	path = code/ds_prep
 	url = git@github.com:courtois-neuromod/ds_prep.git
+	branch = .
 [submodule "shinobi"]
 	path = shinobi
 	url = git@github.com:courtois-neuromod/shinobi.git
