@@ -1,31 +1,22 @@
 [submodule "anat"]
 	path = anat
 	url = git@github.com:courtois-neuromod/anat.git
-	branch = .
 [submodule "movie10"]
 	path = movie10
 	url = git@github.com:courtois-neuromod/movie10.git
-	branch = .
 [submodule "hcptrt"]
 	path = hcptrt
 	url = git@github.com:courtois-neuromod/hcptrt.git
-	branch = .
 [submodule "friends"]
 	path = friends
 	url = git@github.com:courtois-neuromod/friends.git
-	branch = .
 [submodule "docs"]
 	path = docs
 	url = git@github.com:courtois-neuromod/cneuromod_docs.git
-	branch = .
 [submodule "ds_prep"]
 	path = code/ds_prep
 	url = git@github.com:courtois-neuromod/ds_prep.git
-	branch = .
 [submodule "shinobi"]
 	path = shinobi
 	url = git@github.com:courtois-neuromod/shinobi.git
 	datalad-id = 3ee55e10-f8f6-11ea-83ca-3ea8d101da1a
-	branch = .
-[submodule "code/ds_prep"]
-	branch = .
