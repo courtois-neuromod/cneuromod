@@ -28,3 +28,7 @@
 	path = things
 	url = ./things
 	datalad-id = 5151ad3c-321e-4111-abf0-95fee0dcbb90
+[submodule "retinotopy"]
+	path = retinotopy
+	url = ./retinotopy
+	datalad-id = df96e39c-55e0-4862-a5c4-66145afcff6a
