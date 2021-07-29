@@ -26,9 +26,9 @@
 	datalad-id = d58c7aa5-3e9f-48bf-9cb9-d55057f460fd
 [submodule "things"]
 	path = things
-	url = ./things
+	url = git@github.com:courtois-neuromod/things.git
 	datalad-id = 5151ad3c-321e-4111-abf0-95fee0dcbb90
 [submodule "retinotopy"]
 	path = retinotopy
-	url = ./retinotopy
+	url = git@github.com:courtois-neuromod/retinotopy.git
 	datalad-id = df96e39c-55e0-4862-a5c4-66145afcff6a
