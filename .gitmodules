@@ -32,3 +32,7 @@
 	path = retinotopy
 	url = git@github.com:courtois-neuromod/retinotopy.git
 	datalad-id = df96e39c-55e0-4862-a5c4-66145afcff6a
+[submodule "mario"]
+	path = mario
+	url = ./mario
+	datalad-id = 195953d1-63c4-491a-adb1-c2e9ea1a2746
