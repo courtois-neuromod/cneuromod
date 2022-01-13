@@ -36,3 +36,7 @@
 	path = mario
 	url = ./mario
 	datalad-id = 195953d1-63c4-491a-adb1-c2e9ea1a2746
+[submodule "floc"]
+	path = floc
+	url = ./floc
+	datalad-id = 6622f3f6-9d6b-4fbf-8f09-f4409cb16032
