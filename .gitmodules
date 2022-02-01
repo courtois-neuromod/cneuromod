@@ -44,3 +44,7 @@
 	path = gamepad
 	url = ./gamepad
 	datalad-id = afdbdee8-50ec-4cd4-9baa-354a946585c5
+[submodule "shinobi_behavioral"]
+	path = shinobi_training
+	url = git@github.com:courtois-neuromod/shinobi_training.git
+	datalad-id = b579da63-22ef-42da-8793-a48e3e78e204
