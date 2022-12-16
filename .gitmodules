@@ -22,3 +22,8 @@
 	path = code/ds_prep
 	url = git@github.com:courtois-neuromod/ds_prep.git
 	branch = .
+[submodule "shinobi"]
+	path = shinobi
+	url = git@github.com:courtois-neuromod/shinobi.git
+	datalad-id = 3ee55e10-f8f6-11ea-83ca-3ea8d101da1a
+	branch = .
