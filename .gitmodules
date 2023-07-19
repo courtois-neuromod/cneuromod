@@ -36,3 +36,8 @@
 	url = git@github.com:courtois-neuromod/harrypotter.git
 	datalad-id = d58c7aa5-3e9f-48bf-9cb9-d55057f460fd
         branch = .
+[submodule "shinobi_training"]
+	path = shinobi_training
+	url = git@github.com:courtois-neuromod/shinobi_training.git
+	datalad-id = b579da63-22ef-42da-8793-a48e3e78e204
+	datalad-url = git@github.com:courtois-neuromod/shinobi_training.git
