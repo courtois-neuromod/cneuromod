@@ -1,0 +1,277 @@
+{
+  "title": "The Courtois Project on Neuronal Modelling - Raw data - sub-01, sub-03, sub-05",
+  "description": "The Courtois project on Neural Modelling (https://www.cneuromod.ca/) is a dense fMRI database that is being collected on 6 subjects since 2018.  Subjects are scanned regularly, up to several times a week, using the 3T Siemens PrismaFit scanner (64-channel head-neck coil, accelerated simultaneous multi-slice, gradient echo-planar imaging sequence) and both naturalistic and controlled stimuli from a broad range of cognitive domains. The aim of the Courtois Neuromod Project is to train artificial neural networks using extensive experimental data on individual human brain activity and behaviour.",
+  "identifier": {
+    "identifier": "https://doi.org/10.5281/zenodo.8147300",
+    "identifierSource": "Zenodo DOI"
+  },
+  "dates": [
+    {
+      "date": "2018-12-16 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "The Courtois Project on Neuronal Modelling",
+      "abbreviation": "CNeuroMod"
+    },
+    {
+      "fullName": "CNeuroMod Citizen Scientist 01",
+      "lastName": "Citizen Scientist 01",
+      "firstName": "CNeuroMod",
+      "affiliations": [
+        {
+          "name": "Independent"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0000-0000-0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "CNeuroMod Citizen Scientist 03",
+      "firstName": "CNeuroMod",
+      "lastName": "Citizen Scientist 03",
+      "affiliations": [
+        {
+          "name": "Independent"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0000-0000-0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "CNeuroMod Citizen Scientist 05",
+      "firstName": "CNeuroMod",
+      "lastName": "Citizen Scientist 05",
+      "affiliations": [
+        {
+          "name": "Independent"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0000-0000-0000"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "fMRI, MRI, DTI"
+      }
+    },
+    {
+      "information": {
+        "value": "Basic demographic"
+      }
+    }
+  ],
+  "version": "2022",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "BIDS",
+        "NIFTI "
+      ],
+      "size": 3.3,
+      "unit": {
+        "value": "TB"
+      },
+      "access": {
+        "landingPage": "https://docs.cneuromod.ca/en/latest/index.html",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      },
+      "name": "Homo sapiens"
+    },
+    {
+      "name": "Adult"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "dimensions": [
+    {
+      "name": {
+        "value": "Structural MRI"
+      },
+      "description": "T1-weighted MPRAGE 3D sagittal, T2-weighted FSE (SPACE) 3D sagittal, Diffusion-weighted 2D axial, gradient-echo magnetization-transfer 3D, gradient-echo proton density 3D, gradient-echo T1-weighted 3D, MP2RAGE 3D, Susceptibility-weighted 3D"
+    },
+    {
+      "name": {
+        "value": "Functional MRI"
+      },
+      "description": "resting BOLD, tasks BOLD"
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Courtois Foundation"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Human Connectome Project tasks"
+    },
+    {
+      "value": "movies"
+    },
+    {
+      "value": "structural MRI"
+    },
+    {
+      "value": "fMRI"
+    },
+    {
+      "value": "videogame"
+    },
+    {
+      "value": "vision"
+    },
+    {
+      "value": "multimodal"
+    },
+    {
+      "value": "naturalistic tasks"
+    },
+    {
+      "value": "language"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "25451"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_consortium",
+      "values": [
+        {
+          "value": "The Courtois Project on Neuronal Modelling"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "CRIUGM"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Montreal"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.cneuromod.ca/images/cneuromod_logo.svg"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Courtois NeuroMod team, courtois.neuromod@gmail.com"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that local law or a relevant institutional authorization otherwise enables the deposit of these data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
