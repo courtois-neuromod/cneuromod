@@ -1,0 +1,17 @@
+name: Test deploy
+on:
+  push:
+    branches: [ main, git-annex, tests]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  deploy_linux:
+    uses: courtois-neuromod/actions-template/.github/workflows/deploy.yml@main
+    with:
+      name: CNeuromod Bot
+      email: courtois.neuromod@gmail.com
+    secrets:
+      ssh_key: ${{ github.event.repository.private && secrets.CNEUROMOD_BOT_SSH_KEY || secrets.CNEUROMOD_USER_BOT_SSH_KEY }}
+      s3_access_key: ${{ secrets.CNEUROMOD_BOT_S3_ACCESS_KEY }}
+      s3_secret_key: ${{ secrets.CNEUROMOD_BOT_S3_SECRET_KEY }}
