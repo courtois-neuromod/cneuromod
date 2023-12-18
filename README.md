@@ -29,3 +29,11 @@ The project is made possible by a generous donation by the Courtois Foundation t
 We kindly ask that all publications using CNeuroMod datasets include the following paragraph in their acknowledgement section:
 
 The Courtois project on neural modelling was made possible by a generous donation from the Courtois foundation, administered by the Fondation Institut Gériatrie Montréal at CIUSSS du Centre-Sud-de-l’île-de-Montréal and  the University of Montreal. The Courtois NeuroMod team is based at “Centre de Recherche de l’Institut Universitaire de Gériatrie de Montréal”, with several other institutions involved. See the CNeuroMod documentation for an up-to-date list of contributors (https://docs.cneuromod.ca).
+
+## Known issues
+
+As this is an alpha release of this dataset, we ask that users keep a couple of points in mind:
+
+1. Some of the data included in this dataset require a GitHub SSH key to download. Instructions on generating and using SSH keys for GitHub can be found on [this page of the GitHub Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
+
+2. In order to track provenance, some sub-directories in this dataset include links to other directories. Right now, the overall structure of these links does not permit recursive installation of the entire dataset using the `datalad install -r` command. **It is therefore recommended** that users install the dataset as described below (in the "Download Using DataLad" section of this page) and then enter directories of interest and execute `datalad get` to fetch specific files. Please [contact the CONP Portal team](https://portal.conp.ca/contact_us) concerning download failures or to sign up for notification of upcoming updates that we expect will resolve these problems.

@@ -1,5 +1,5 @@
 {
-  "title": "The Courtois Project on Neuronal Modelling - Raw data - sub-01, sub-03, sub-05",
+  "title": "The Courtois Project on Neuronal Modelling - Raw data - sub-01, sub-03, sub-05 (Alpha release)",
   "description": "The Courtois project on Neural Modelling (https://www.cneuromod.ca/) is a dense fMRI database that is being collected on 6 subjects since 2018.  Subjects are scanned regularly, up to several times a week, using the 3T Siemens PrismaFit scanner (64-channel head-neck coil, accelerated simultaneous multi-slice, gradient echo-planar imaging sequence) and both naturalistic and controlled stimuli from a broad range of cognitive domains. The aim of the Courtois Neuromod Project is to train artificial neural networks using extensive experimental data on individual human brain activity and behaviour.",
   "identifier": {
     "identifier": "https://doi.org/10.5281/zenodo.8147300",
