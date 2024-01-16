@@ -51,3 +51,8 @@
 	url = git@github.com:courtois-neuromod/triplets.git
 	datalad-id = 76c5e7cf-b8eb-4a0e-97b5-d6fdf029924a
 	datalad-url = git@github.com:courtois-neuromod/triplets.git
+[submodule "floc"]
+	path = floc
+	url = git@github.com:courtois-neuromod/floc.git
+	datalad-id = a1aba9da-6122-4824-948f-241b0a1f4886
+	datalad-url = git@github.com:courtois-neuromod/floc.git
