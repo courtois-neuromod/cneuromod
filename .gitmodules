@@ -74,3 +74,8 @@
 	path = petit-prince
 	url = git@github.com:courtois-neuromod/petit-prince.git
 	datalad-url = git@github.com:courtois-neuromod/petit-prince.git
+[submodule "retinotopy"]
+	path = retinotopy
+	url = git@github.com:courtois-neuromod/retinotopy.git
+	datalad-id = df96e39c-55e0-4862-a5c4-66145afcff6a
+	datalad-url = git@github.com:courtois-neuromod/retinotopy.git
