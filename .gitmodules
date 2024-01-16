@@ -66,3 +66,7 @@
 	url = git@github.com:courtois-neuromod/mario3.git
 	datalad-id = 061941e4-bdb6-4f5a-9f47-cc1b962d1ec6
 	datalad-url = git@github.com:courtois-neuromod/mario3.git
+[submodule "mariostars"]
+	path = mariostars
+	url = git@github.com:courtois-neuromod/mariostars.git
+	datalad-url = git@github.com:courtois-neuromod/mariostars.git
