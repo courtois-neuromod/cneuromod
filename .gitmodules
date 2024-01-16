@@ -46,3 +46,8 @@
 	url = git@github.com:courtois-neuromod/gamepad.git
 	datalad-id = afdbdee8-50ec-4cd4-9baa-354a946585c5
 	datalad-url = git@github.com:courtois-neuromod/gamepad.git
+[submodule "triplets"]
+	path = triplets
+	url = git@github.com:courtois-neuromod/triplets.git
+	datalad-id = 76c5e7cf-b8eb-4a0e-97b5-d6fdf029924a
+	datalad-url = git@github.com:courtois-neuromod/triplets.git
