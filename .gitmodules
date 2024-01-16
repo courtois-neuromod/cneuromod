@@ -56,3 +56,8 @@
 	url = git@github.com:courtois-neuromod/floc.git
 	datalad-id = a1aba9da-6122-4824-948f-241b0a1f4886
 	datalad-url = git@github.com:courtois-neuromod/floc.git
+[submodule "mario"]
+	path = mario
+	url = git@github.com:courtois-neuromod/mario.git
+	datalad-id = 195953d1-63c4-491a-adb1-c2e9ea1a2746
+	datalad-url = git@github.com:courtois-neuromod/mario.git
