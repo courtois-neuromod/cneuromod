@@ -70,3 +70,7 @@
 	path = mariostars
 	url = git@github.com:courtois-neuromod/mariostars.git
 	datalad-url = git@github.com:courtois-neuromod/mariostars.git
+[submodule "petit-prince"]
+	path = petit-prince
+	url = git@github.com:courtois-neuromod/petit-prince.git
+	datalad-url = git@github.com:courtois-neuromod/petit-prince.git
