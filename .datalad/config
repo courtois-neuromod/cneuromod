@@ -1,2 +1,5 @@
 [datalad "dataset"]
 	id = 29e74738-8e09-11ea-80eb-8555360247cd
+[datalad "get"]
+	subdataset-source-candidate-620cneuromodhttp = https://github.com/courtois-neuromod/{name}.git
+	subdataset-source-candidate-625cneuromodhttp = https://github.com/courtois-neuromod/cneuromod_{name}.git
