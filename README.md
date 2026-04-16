@@ -6,7 +6,7 @@ The Courtois project on Neural Modelling (["Courtois NeuroMod"](https://www.cneu
 
 ## Participants
 
-In an effort to accelerate discovery through Citizen Science, participants 01, 03, and 05 in the Courtois NeuroMod project have decided and consented to openly share their data with the scientific community to advance research at the interface of neuroscience and artificial intelligence.
+In an effort to accelerate discovery through Citizen Science, participants 01, 02, 03, 05 and 06 in the Courtois NeuroMod project have decided and consented to openly share their data with the scientific community to advance research at the interface of neuroscience and artificial intelligence.
 
 Data for all 6 subjects in Courtois NeuroMod project are accessible through registered access and institutional data transfer agreement. For more information please visit our [homepage](https://www.cneuromod.ca/).
 

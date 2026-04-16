@@ -39,6 +39,26 @@
       ]
     },
     {
+      "fullName": "CNeuroMod Citizen Scientist 02",
+      "lastName": "Citizen Scientist 02",
+      "firstName": "CNeuroMod",
+      "affiliations": [
+        {
+          "name": "Independent"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0000-0000-0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "fullName": "CNeuroMod Citizen Scientist 03",
       "firstName": "CNeuroMod",
       "lastName": "Citizen Scientist 03",
@@ -62,6 +82,26 @@
       "fullName": "CNeuroMod Citizen Scientist 05",
       "firstName": "CNeuroMod",
       "lastName": "Citizen Scientist 05",
+      "affiliations": [
+        {
+          "name": "Independent"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0000-0000-0000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "CNeuroMod Citizen Scientist 06",
+      "firstName": "CNeuroMod",
+      "lastName": "Citizen Scientist 06",
       "affiliations": [
         {
           "name": "Independent"
