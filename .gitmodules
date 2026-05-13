@@ -20,10 +20,10 @@
 	branch = .
 [submodule "docs"]
 	path = docs
-	url = git@github.com:courtois-neuromod/cneuromod_docs.git
+	url = https://github.com/courtois-neuromod/cneuromod_docs.git
 [submodule "ds_prep"]
 	path = code/ds_prep
-	url = git@github.com:courtois-neuromod/ds_prep.git
+	url = https://github.com/courtois-neuromod/ds_prep.git
 [submodule "shinobi"]
 	path = shinobi
 	url = git@github.com:courtois-neuromod/shinobi.git
